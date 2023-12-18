@@ -1,3 +1,4 @@
+package practica1;
 /**
  * HolaMundo
  * @author Veronica Oviedo
